@@ -1,0 +1,7 @@
+v 4
+file . ".\tb_substractor.vhd" "cc5ab4e5bf72582428afef1e2581438f5c63a55a" "20251104064154.732":
+  entity tb_substractor at 1( 0) + 0 on 13;
+  architecture test of tb_substractor at 7( 88) + 0 on 14;
+file . ".\substractor.vhd" "da01a8e3843840dbe8ae3157e59568029d4382f3" "20251104064134.345":
+  entity substractor at 1( 0) + 0 on 11;
+  architecture logic of substractor at 14( 209) + 0 on 12;
